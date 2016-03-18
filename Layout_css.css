@@ -1,0 +1,92 @@
+.hinhnhom{
+	display: inline-block;
+	width: 200px;
+	height: 100px;
+}
+
+.hinhcanhan{
+	display: inline-block;
+	width: 50px;
+	height: 50px;
+}
+
+body{
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+#layout{
+	background-image: url(gintama.jpg);
+}
+
+#topmenu{
+	float: left;
+	background-color: #E41D1D;
+	width: 100%;
+	padding-left: 200px;
+	border-left: 200px;
+}
+
+#topmenu a{
+	color: #FFFFFF;
+	float: left;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+#leftmenu{
+	float: left;
+	width: 25%;
+	min-height: 500px;
+	background-color: #D46363;
+}
+
+#banner{
+	padding: 10px;
+	height: 100px;
+	background-color: #124180;
+	margin-right: 0;
+	margin-left: 0;
+	margin-top: 0;
+}
+
+#banner h1{
+	height: 100px;
+	border-left: 100px;
+	color: #FFFFFF;
+}
+
+#footer{
+	display: inline-block;
+	vertical-align: top;
+	width: 100%;
+	min-height: 50px;
+	margin-bottom: 0;
+	margin-left: 0;
+	margin-right: 0;
+	background-color: #1E4C70;
+}
+
+#content{
+	display: inline-block;
+	vertical-align: top;
+	width: 80%;
+	min-height: 500px;
+	margin-left: 10%;
+	margin-right: 10%;
+	background-color: #3252C8;
+}
+
+#stu_inf{
+	display: inline-block;
+	vertical-align: top;
+	width: 50px;
+	height: 50px;
+}
+
+h3{
+	padding-left: 25%;
+}
